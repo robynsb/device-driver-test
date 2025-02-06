@@ -2,7 +2,7 @@
 
 Trying to create a simple char device running on a Raspberry Pi 3B+ using the book LDD3 as reference.
 
-## Installation/Usage
+## Installation and Usage
 
 The dependencies of this project are as described in the `shell.nix` file.
 
